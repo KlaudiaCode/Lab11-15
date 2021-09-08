@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Monitor Tankowania</string>
+    <string name="edit">Edytuj</string>
+    <string name="remove">Usuń</string>
+    <string name="add">Dodaj</string>
+    <string name="statistics">Statystyki</string>
+    <string name="check_date">Data przeglądu</string>
+    <string name="refuelling_list">Lista tankowań</string>
+    <string name="brand">Marka</string>
+    <string name="model">Model</string>
+    <string name="plate_number">Numer rejestracyjny</string>
+    <string name="date">Data tankowania</string>
+    <string name="price">Cena</string>
+    <string name="price_per_liter">Cena za litr</string>
+    <string name="place">Miejsce tankowania</string>
+    <string name="mileage">Przebieg</string>
+    <string name="save">Zapisz</string>
+    <string name="consumption">Spalanie na 100km</string>
+    <string name="avg_consumption">Średnie spalanie na 100km z:</string>
+    <string name="favourite_place">Ulubiona stacja</string>
+    <string name="avg_expenses">Średnie wydatki miesięczne</string>
+    <string name="liters">%1.2f L</string>
+    <string name="day_30">30 dni</string>
+    <string name="day_120">120 dni</string>
+    <string name="day_365">365 dni</string>
+    <string name="min_consumption">Najmniejsze spalanie</string>
+    <string name="max_consumption">Największe spalanie</string>
+    <string name="distance_since_refuelled">Dystans od ostatniego tankowania</string>
+    <string name="empty_fields">Wypełnij wszystkie pola</string>
+    <string name="date_format">%1$d.%2$d.%3$d r.</string>
+    <string name="currency">%1$.2f zł</string>
+    <string name="distance_unit">%1$d km</string>
+    <string-array name="months">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
+    </string-array>
+</resources>

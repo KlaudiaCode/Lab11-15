@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/vehicleListFragment">
+
+    <fragment
+        android:id="@+id/vehicleDetailsFragment"
+        android:name="domanska.klaudia.lab_11_15.ui.vehicleDetails.VehicleDetailsFragment"
+        android:label="fragment_vehicle_details"
+        tools:layout="@layout/fragment_vehicle_details" >
+        <argument
+            android:name="vehicleId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+        <action
+            android:id="@+id/action_vehicleDetailsFragment_to_vehicleFormFragment"
+            app:destination="@id/vehicleFormFragment" />
+        <action
+            android:id="@+id/action_vehicleDetailsFragment_to_refuellingForm"
+            app:destination="@id/refuellingForm" />
+        <action
+            android:id="@+id/action_vehicleDetailsFragment_to_refuellingDetailsFragment"
+            app:destination="@id/refuellingDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/vehicleListFragment"
+        android:name="domanska.klaudia.lab_11_15.ui.vehicleList.VehicleListFragment"
+        android:label="fragment_vehicle"
+        tools:layout="@layout/fragment_vehicle_list" >
+        <action
+            android:id="@+id/action_vehicleListFragment_to_vehicleDetailsFragment"
+            app:destination="@id/vehicleDetailsFragment" />
+        <action
+            android:id="@+id/action_vehicleListFragment_to_vehicleFormFragment"
+            app:destination="@id/vehicleFormFragment" />
+        <action
+            android:id="@+id/action_vehicleListFragment_to_statisticsFragment"
+            app:destination="@id/statisticsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/vehicleFormFragment"
+        android:name="domanska.klaudia.lab_11_15.ui.vehicleForm.VehicleFormFragment"
+        android:label="fragment_vehicle_form"
+        tools:layout="@layout/fragment_vehicle_form" >
+        <argument android:name="vehicleId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+    </fragment>
+    <fragment
+        android:id="@+id/refuellingForm"
+        android:name="domanska.klaudia.lab_11_15.ui.refuellingForm.RefuellingFormFragment"
+        android:label="fragment_refuelling_form"
+        tools:layout="@layout/fragment_refuelling_form" >
+        <argument
+            android:name="vehicleId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+        <argument
+            android:name="refuellingId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+    </fragment>
+    <fragment
+        android:id="@+id/refuellingDetailsFragment"
+        android:name="domanska.klaudia.lab_11_15.ui.refuellingDetails.RefuellingDetailsFragment"
+        android:label="fragment_refuelling_details"
+        tools:layout="@layout/fragment_refuelling_details" >
+        <argument
+            android:name="refuellingId"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_refuellingDetailsFragment_to_refuellingForm"
+            app:destination="@id/refuellingForm" />
+    </fragment>
+    <fragment
+        android:id="@+id/statisticsFragment"
+        android:name="domanska.klaudia.lab_11_15.ui.statistics.StatisticsFragment"
+        android:label="fragment_statistics"
+        tools:layout="@layout/fragment_statistics" />
+</navigation>

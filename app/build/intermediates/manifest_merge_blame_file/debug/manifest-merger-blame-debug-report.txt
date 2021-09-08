@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="tomasz.kopycinski.lab_11_15"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:5:5-20:19
+12        android:name="domanska.klaudia.lab_11_15.RefuellingApplication"
+12-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:6:9-72
+13        android:allowBackup="false"
+13-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:7:9-36
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.6.0] /Users/klaudiacode/.gradle/caches/transforms-3/751833ff4ab37f4dd7ead40e16c5029c/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Lab1115" >
+22-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:12:9-45
+23        <activity android:name="domanska.klaudia.lab_11_15.ui.MainActivity" >
+23-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:13:9-19:20
+23-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:13:19-76
+24            <intent-filter>
+24-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:15:17-69
+25-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:17:17-77
+27-->/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <service
+31-->[androidx.room:room-runtime:2.3.0] /Users/klaudiacode/.gradle/caches/transforms-3/9b002a7f98e9f49987d9681341fd3d0e/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+32            android:name="androidx.room.MultiInstanceInvalidationService"
+32-->[androidx.room:room-runtime:2.3.0] /Users/klaudiacode/.gradle/caches/transforms-3/9b002a7f98e9f49987d9681341fd3d0e/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+33            android:directBootAware="true"
+33-->[androidx.room:room-runtime:2.3.0] /Users/klaudiacode/.gradle/caches/transforms-3/9b002a7f98e9f49987d9681341fd3d0e/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+34            android:exported="false" />
+34-->[androidx.room:room-runtime:2.3.0] /Users/klaudiacode/.gradle/caches/transforms-3/9b002a7f98e9f49987d9681341fd3d0e/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+35    </application>
+36
+37</manifest>

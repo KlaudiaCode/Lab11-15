@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vehicle_recycler_item.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/vehicle_recycler_item.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_vehicle_form.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/fragment_vehicle_form.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_vehicle_list.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/fragment_vehicle_list.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/refuelling_header_recycler_view.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/refuelling_header_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_refuelling_details.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/fragment_refuelling_details.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_vehicle_details.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/fragment_vehicle_details.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_statistics.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_refuelling_form.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/fragment_refuelling_form.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/refuelling_recycler_item.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/refuelling_recycler_item.xml"
+    },
+    {
+        "merged": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vehicle_details_top.xml",
+        "source": "/Users/klaudiacode/MEGAsync Downloads/Lab1115/app/src/main/res/layout/vehicle_details_top.xml"
+    }
+]

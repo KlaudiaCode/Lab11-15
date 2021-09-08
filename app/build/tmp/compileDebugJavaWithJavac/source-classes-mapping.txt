@@ -1,0 +1,52 @@
+domanska/klaudia/lab_11_15/data/dao/VehicleDAO_Impl.java
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$1
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$2
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$3
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$4
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$5
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$6
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$7
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$8
+ domanska.klaudia.lab_11_15.data.dao.VehicleDAO_Impl$9
+domanska/klaudia/lab_11_15/BuildConfig.java
+ domanska.klaudia.lab_11_15.BuildConfig
+domanska/klaudia/lab_11_15/data/dao/RefuellingDAO_Impl.java
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$1
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$10
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$11
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$12
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$2
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$3
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$4
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$5
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$6
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$7
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$8
+ domanska.klaudia.lab_11_15.data.dao.RefuellingDAO_Impl$9
+domanska/klaudia/lab_11_15/data/AppDatabase_Impl.java
+ domanska.klaudia.lab_11_15.data.AppDatabase_Impl
+ domanska.klaudia.lab_11_15.data.AppDatabase_Impl$1
+domanska/klaudia/lab_11_15/databinding/RefuellingRecyclerItemBinding.java
+ domanska.klaudia.lab_11_15.databinding.RefuellingRecyclerItemBinding
+domanska/klaudia/lab_11_15/databinding/FragmentStatisticsBinding.java
+ domanska.klaudia.lab_11_15.databinding.FragmentStatisticsBinding
+domanska/klaudia/lab_11_15/databinding/ActivityMainBinding.java
+ domanska.klaudia.lab_11_15.databinding.ActivityMainBinding
+domanska/klaudia/lab_11_15/databinding/FragmentRefuellingFormBinding.java
+ domanska.klaudia.lab_11_15.databinding.FragmentRefuellingFormBinding
+domanska/klaudia/lab_11_15/databinding/VehicleDetailsTopBinding.java
+ domanska.klaudia.lab_11_15.databinding.VehicleDetailsTopBinding
+domanska/klaudia/lab_11_15/databinding/FragmentVehicleListBinding.java
+ domanska.klaudia.lab_11_15.databinding.FragmentVehicleListBinding
+domanska/klaudia/lab_11_15/databinding/FragmentVehicleDetailsBinding.java
+ domanska.klaudia.lab_11_15.databinding.FragmentVehicleDetailsBinding
+domanska/klaudia/lab_11_15/databinding/FragmentVehicleFormBinding.java
+ domanska.klaudia.lab_11_15.databinding.FragmentVehicleFormBinding
+domanska/klaudia/lab_11_15/databinding/RefuellingHeaderRecyclerViewBinding.java
+ domanska.klaudia.lab_11_15.databinding.RefuellingHeaderRecyclerViewBinding
+domanska/klaudia/lab_11_15/databinding/FragmentRefuellingDetailsBinding.java
+ domanska.klaudia.lab_11_15.databinding.FragmentRefuellingDetailsBinding
+domanska/klaudia/lab_11_15/databinding/VehicleRecyclerItemBinding.java
+ domanska.klaudia.lab_11_15.databinding.VehicleRecyclerItemBinding
